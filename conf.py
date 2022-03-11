@@ -1,6 +1,9 @@
+import asyncio
 import os
+
+from asyncpg import Pool
 from dotenv import load_dotenv
-from databases import Database
+import gmqtt.client
 
 load_dotenv()
 
@@ -13,6 +16,10 @@ DB_DATABASE = os.environ.get("DB_DATABASE")
 DB_POOL_MIN = 5
 DB_POOL_MAX = 20
 
+# MQTT
+MQTT_HOST = os.environ.get("MQTT_HOST")
+MQTT_PORT = os.environ.get("MQTT_PORT")
 
 # Connections
-db = Database(DB_URL + DB_DATABASE, min_size=DB_POOL_MIN, max_size=DB_POOL_MAX)
+db_pool: Pool
+mqtt = gmqtt.client.Client("pahome-main")

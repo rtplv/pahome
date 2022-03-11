@@ -1,7 +1,8 @@
 import asyncio
 
+import asyncpg
 import pytest
-from databases import Database
+from asyncpg import Pool
 from alembic import command
 from alembic.config import Config
 
@@ -14,11 +15,10 @@ def event_loop():
 
 
 @pytest.fixture(scope="session")
-async def db() -> Database:
-    db = Database(conf.DB_URL + "tests", min_size=1, max_size=5)
-    await db.connect()
-    conf.db = db
-    return db
+async def db_pool() -> Pool:
+    db_pool = await asyncpg.create_pool(conf.DB_URL + "tests",
+                                        min_size=conf.DB_POOL_MIN, max_size=conf.DB_POOL_MAX)
+    return db_pool
 
 
 @pytest.fixture(scope="session", autouse=True)

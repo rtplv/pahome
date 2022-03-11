@@ -8,5 +8,6 @@ https://www.zigbee2mqtt.io/guide/usage/mqtt_topics_and_messages.html#zigbee2mqtt
 ## Входящие события:
 - Устройство подключено: topic 'zigbee2mqtt/bridge/event', payload '{"data":{"friendly_name":"0x50325ffffe71f9a6","ieee_address":"0x50325ffffe71f9a6"},"type":"device_joined"}'
 - Устройство опрашивается: topic 'zigbee2mqtt/bridge/event', payload '{"data":{"friendly_name":"0x50325ffffe71f9a6","ieee_address":"0x50325ffffe71f9a6","status":"started"},"type":"device_interview"}'
+- Устройство покинул сеть: device_leave
 - Устройство снова появилось в сети (напр. включили с выключателя): topic 'zigbee2mqtt/bridge/event', payload '{"data":{"friendly_name":"0x50325ffffe71f9a6","ieee_address":"0x50325ffffe71f9a6","status":"started"},"type":"device_announce"}'
 - Создается очередь с адресом устройства и устанавливаются параметры: Info MQTT publish: topic 'zigbee2mqtt/0x50325ffffe71f9a6', payload '{"action":"brightness_up_click","linkquality":76}'
