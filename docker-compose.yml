@@ -1,0 +1,21 @@
+version: '3'
+
+networks:
+  pahome-network:
+    driver: bridge
+
+services:
+  application:
+    build:
+      context: .
+    ports:
+      - "8000:8000"
+    networks:
+      - pahome-network
+#  redis:
+#    image: redis:6-alpine
+#    ports:
+#      - "6379:6379"
+#    command: redis-server --save 60 1
+#    volumes:
+#      - "./docker-temp/redis:/data"
