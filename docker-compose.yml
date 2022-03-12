@@ -12,6 +12,17 @@ services:
       - "8000:8000"
     networks:
       - pahome-network
+  postgres:
+    image: postgres:13.4-alpine
+    networks:
+      - pahome-network
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_PASSWORD=password
+    volumes:
+      - ./docker/persist/postgres/data:/var/lib/postgresql/data
+      - ./docker/config/postgres/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
 #  redis:
 #    image: redis:6-alpine
 #    ports:
