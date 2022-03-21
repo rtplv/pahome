@@ -1,4 +1,3 @@
-import datetime
 from typing import Tuple, Optional
 from asyncpg import Connection
 
@@ -27,12 +26,12 @@ async def save_state(ctx: Connection, ieee_address: str, state: dict):
         await repository.update_state(ctx, state_mdl)
 
 
-async def get_state(ctx: Connection, ieee_address: str) -> Optional[DeviceState]:
-    return await repository.get_state(ctx, ieee_address)
-
-
 async def get(ctx: Connection, ieee_address: str) -> Device:
     return await repository.get(ctx, ieee_address)
+
+
+async def get_state(ctx: Connection, ieee_address: str) -> Optional[DeviceState]:
+    return await repository.get_state(ctx, ieee_address)
 
 
 async def get_with_meta(ctx: Connection, ieee_address: str) -> Tuple[Device, Optional[DeviceMeta]]:
