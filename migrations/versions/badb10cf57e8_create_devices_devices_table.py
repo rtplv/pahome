@@ -21,6 +21,9 @@ def upgrade():
         "devices",
         sa.Column("ieee_address", sa.String(255), unique=True, primary_key=True),
         sa.Column("friendly_name", sa.String(255)),
+        sa.Column("removed", sa.Boolean, nullable=False, default=False),
+        sa.Column("created_at", sa.DateTime, default=sa.func.current_timestamp()),
+        sa.Column("updated_at", sa.DateTime, default=sa.func.current_timestamp()),
     )
 
 
