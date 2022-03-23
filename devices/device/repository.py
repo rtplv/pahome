@@ -1,5 +1,4 @@
 import datetime
-import json
 from typing import Optional, Tuple
 from asyncpg import Connection
 from devices.device.model import Device, DeviceMeta, DeviceState
@@ -22,8 +21,16 @@ async def create_meta(ctx: Connection, created_meta: DeviceMeta):
         created_meta.model,
         created_meta.vendor,
         created_meta.description,
-        json.dumps(created_meta.exposes),
-        json.dumps(created_meta.options)
+        created_meta.exposes,
+        created_meta.options
+    )
+
+
+async def create_state(ctx: Connection, created_state: DeviceState):
+    await ctx.execute(
+        "INSERT INTO device_state(ieee_address, state) VALUES ($1, $2)",
+        created_state.ieee_address,
+        created_state.state
     )
 
 
@@ -50,8 +57,8 @@ async def get_with_meta(ctx: Connection, ieee_address: str) -> Tuple[Optional[De
                 model=row["model"],
                 vendor=row["vendor"],
                 description=row["description"],
-                exposes=json.loads(row["exposes"]),
-                options=json.loads(row["options"])
+                exposes=row["exposes"],
+                options=row["options"]
             )
         else:
             return Device.parse_obj(row), None
@@ -67,37 +74,20 @@ async def get_state(ctx: Connection, ieee_address: str) -> Optional[DeviceState]
 
     return DeviceState(
         ieee_address=row['ieee_address'],
-        state=json.loads(row['state']),
+        state=row['state'],
         created_at=row['created_at'],
         updated_at=row['updated_at']
     ) if row else None
 
 
-async def create_state(ctx: Connection, created_state: DeviceState):
-    await ctx.execute(
-        "INSERT INTO device_state(ieee_address, state) VALUES ($1, $2)",
-        created_state.ieee_address,
-        json.dumps(created_state.state)
-    )
-
-
-async def update_state(ctx: Connection, updated_state: DeviceState):
-    await ctx.execute(
-        "UPDATE device_state SET state = $1, updated_at = $2 WHERE ieee_address = $3",
-        json.dumps(updated_state.state),
-        datetime.datetime.utcnow(),
-        updated_state.ieee_address
-    )
-
-
 async def update(ctx: Connection, updated_device: Device):
     await ctx.execute(
         "UPDATE devices SET friendly_name = $1, removed = $2, updated_at = $3 "
-        "WHERE ieee_address = $3",
+        "WHERE ieee_address = $4",
         updated_device.friendly_name,
         updated_device.removed,
+        datetime.datetime.utcnow(),
         updated_device.ieee_address,
-        datetime.datetime.utcnow()
     )
 
 
@@ -105,4 +95,13 @@ async def delete(ctx: Connection, ieee_address: str):
     await ctx.execute(
         "DELETE FROM devices WHERE ieee_address = $1",
         ieee_address
+    )
+
+
+async def update_state(ctx: Connection, updated_state: DeviceState):
+    await ctx.execute(
+        "UPDATE device_state SET state = $1, updated_at = $2 WHERE ieee_address = $3",
+        updated_state.state,
+        datetime.datetime.utcnow(),
+        updated_state.ieee_address
     )
