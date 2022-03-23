@@ -1,6 +1,4 @@
-import asyncio
 import json
-import re
 from json import JSONDecodeError
 from typing import Optional
 
@@ -55,7 +53,6 @@ async def process_bridge_event(body: dict):
                     await device_service.create(ctx, Device(
                         ieee_address=event.data.ieee_address,
                         friendly_name=event.data.ieee_address,
-                        removed=True
                     ))
                 elif device.removed:
                     await device_service.change_removed_state(ctx, device.ieee_address, False)
