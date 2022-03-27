@@ -1,0 +1,1 @@
+{"title": "TuYa TS0601_water_sensor", "type": "object", "properties": {"water_leak": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

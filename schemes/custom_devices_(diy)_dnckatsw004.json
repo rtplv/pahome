@@ -1,0 +1,1 @@
+{"title": "Custom devices (DiY) DNCKATSW004", "type": "object", "properties": {"action": {"type": "string", "enum": ["release_bottom_left", "hold_bottom_left", "release_bottom_right", "hold_bottom_right", "release_top_left", "hold_top_left", "release_top_right", "hold_top_right"]}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "DIYRuZ DIYRuZ_RT", "type": "object", "properties": {"temperature": {"type": "integer"}, "linkquality": {"type": "integer"}}}

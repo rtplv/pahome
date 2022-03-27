@@ -1,0 +1,1 @@
+{"title": "HEIMAN HS2SS", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["cinema", "at_home", "sleep", "go_out", "repast"]}, "linkquality": {"type": "integer"}}}

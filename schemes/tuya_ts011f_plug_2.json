@@ -1,0 +1,1 @@
+{"title": "TuYa TS011F_plug_2", "type": "object", "properties": {"power_outage_memory": {"type": "string", "enum": ["on", "off", "restore"]}, "indicator_mode": {"type": "string", "enum": ["off", "off/on", "on/off", "on"]}, "linkquality": {"type": "integer"}}}

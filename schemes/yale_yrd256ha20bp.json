@@ -1,0 +1,1 @@
+{"title": "Yale YRD256HA20BP", "type": "object", "properties": {"battery": {"type": "integer"}, "pin_code": {"type": "composite"}, "linkquality": {"type": "integer"}}}

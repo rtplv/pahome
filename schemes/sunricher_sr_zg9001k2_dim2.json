@@ -1,0 +1,1 @@
+{"title": "Sunricher SR-ZG9001K2-DIM2", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["on_1", "off_1", "stop_1", "brightness_move_up_1", "brightness_move_down_1", "brightness_stop_1", "on_2", "off_2", "stop_2", "brightness_move_up_2", "brightness_move_down_2", "brightness_stop_2"]}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "Lonsonho QS-Zigbee-C01", "type": "object", "properties": {"moving": {"type": "string", "enum": ["UP", "STOP", "DOWN"]}, "calibration": {"type": "boolean"}, "motor_reversal": {"type": "boolean"}, "calibration_time": {"type": "integer"}, "linkquality": {"type": "integer"}}}

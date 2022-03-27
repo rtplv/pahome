@@ -1,0 +1,1 @@
+{"title": "Custom devices (DiY) CC2530.ROUTER", "type": "object", "properties": {"led": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

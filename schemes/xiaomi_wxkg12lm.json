@@ -1,0 +1,1 @@
+{"title": "Xiaomi WXKG12LM", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["single", "double", "hold", "release", "shake"]}, "voltage": {"type": "integer"}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "BTicino K4003C/L4003C/N4003C/NT4003C", "type": "object", "properties": {"action": {"type": "string", "enum": ["identify", "on", "off"]}, "permanent_led": {"type": "boolean"}, "led_when_on": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

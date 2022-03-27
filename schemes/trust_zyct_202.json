@@ -1,0 +1,1 @@
+{"title": "Trust ZYCT-202", "type": "object", "properties": {"action": {"type": "string", "enum": ["on", "off", "stop", "brightness_stop", "brightness_move_up", "brightness_move_down"]}, "action_group": {"type": "integer"}, "linkquality": {"type": "integer"}}}

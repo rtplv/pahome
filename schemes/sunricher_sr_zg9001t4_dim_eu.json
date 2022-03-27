@@ -1,0 +1,1 @@
+{"title": "Sunricher SR-ZG9001T4-DIM-EU", "type": "object", "properties": {"action": {"type": "string", "enum": ["recall_*", "on", "off", "brightness_stop", "brightness_move_down", "brightness_move_up", "brightness_step_down", "brightness_step_up"]}, "linkquality": {"type": "integer"}}}

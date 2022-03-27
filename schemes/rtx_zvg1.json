@@ -1,0 +1,1 @@
+{"title": "RTX ZVG1", "type": "object", "properties": {"battery": {"type": "integer"}, "timer_state": {"type": "string", "enum": ["disabled", "active", "enabled"]}, "timer": {"type": "integer"}, "timer_time_left": {"type": "integer"}, "last_valve_open_duration": {"type": "integer"}, "water_consumed": {"type": "integer"}, "linkquality": {"type": "integer"}}}

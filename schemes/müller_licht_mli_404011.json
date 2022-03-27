@@ -1,0 +1,1 @@
+{"title": "M\u00fcller Licht MLI-404011", "type": "object", "properties": {"action": {"type": "string", "enum": ["on", "off", "toggle", "brightness_down_click", "brightness_up_click", "color_temp", "color_wheel", "brightness_0_release", "brightness_1_release", "brightness_0_hold", "brightness_1_hold"]}, "linkquality": {"type": "integer"}}}

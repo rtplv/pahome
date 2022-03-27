@@ -1,0 +1,1 @@
+{"title": "Immax 07703L", "type": "object", "properties": {"battery_low": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

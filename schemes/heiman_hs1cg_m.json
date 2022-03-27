@@ -1,0 +1,1 @@
+{"title": "HEIMAN HS1CG_M", "type": "object", "properties": {"gas": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "tamper": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

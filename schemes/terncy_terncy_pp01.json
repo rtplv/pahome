@@ -1,0 +1,1 @@
+{"title": "TERNCY TERNCY-PP01", "type": "object", "properties": {"temperature": {"type": "integer"}, "occupancy": {"type": "boolean"}, "illuminance_lux": {"type": "integer"}, "illuminance": {"type": "integer"}, "action": {"type": "string", "enum": ["single", "double", "triple", "quadruple"]}, "linkquality": {"type": "integer"}}}

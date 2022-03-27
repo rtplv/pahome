@@ -1,0 +1,1 @@
+{"title": "DIYRuZ DIYRuZ_magnet", "type": "object", "properties": {"battery": {"type": "integer"}, "contact": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

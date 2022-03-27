@@ -1,0 +1,1 @@
+{"title": "Trust ZWLD-100", "type": "object", "properties": {"water_leak": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "tamper": {"type": "boolean"}, "battery": {"type": "integer"}, "linkquality": {"type": "integer"}}}

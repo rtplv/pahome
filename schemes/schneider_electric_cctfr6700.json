@@ -1,0 +1,1 @@
+{"title": "Schneider Electric CCTFR6700", "type": "object", "properties": {"power": {"type": "integer"}, "energy": {"type": "integer"}, "schneider_pilot_mode": {"type": "string", "enum": ["contactor", "pilot"]}, "linkquality": {"type": "integer"}}}

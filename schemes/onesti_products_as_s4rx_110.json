@@ -1,0 +1,1 @@
+{"title": "Onesti Products AS S4RX-110", "type": "object", "properties": {"power": {"type": "integer"}, "current": {"type": "integer"}, "voltage": {"type": "integer"}, "energy": {"type": "integer"}, "device_temperature": {"type": "integer"}, "linkquality": {"type": "integer"}}}

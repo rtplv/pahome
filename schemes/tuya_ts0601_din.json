@@ -1,0 +1,1 @@
+{"title": "TuYa TS0601_din", "type": "object", "properties": {"voltage": {"type": "integer"}, "power": {"type": "integer"}, "current": {"type": "integer"}, "energy": {"type": "integer"}, "linkquality": {"type": "integer"}}}

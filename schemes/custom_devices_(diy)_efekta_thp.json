@@ -1,0 +1,1 @@
+{"title": "Custom devices (DiY) EFEKTA_THP", "type": "object", "properties": {"battery": {"type": "integer"}, "temperature": {"type": "integer"}, "humidity": {"type": "integer"}, "pressure": {"type": "integer"}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "Philips 3418631P6", "type": "object", "properties": {"effect": {"type": "string", "enum": ["blink", "breathe", "okay", "channel_change", "finish_effect", "stop_effect"]}, "linkquality": {"type": "integer"}}}

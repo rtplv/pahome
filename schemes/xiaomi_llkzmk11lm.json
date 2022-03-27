@@ -1,0 +1,1 @@
+{"title": "Xiaomi LLKZMK11LM", "type": "object", "properties": {"power": {"type": "integer"}, "energy": {"type": "integer"}, "temperature": {"type": "integer"}, "voltage": {"type": "integer"}, "interlock": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

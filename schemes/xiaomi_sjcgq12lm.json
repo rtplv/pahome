@@ -1,0 +1,1 @@
+{"title": "Xiaomi SJCGQ12LM", "type": "object", "properties": {"battery": {"type": "integer"}, "water_leak": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "tamper": {"type": "boolean"}, "voltage": {"type": "integer"}, "linkquality": {"type": "integer"}}}

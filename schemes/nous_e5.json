@@ -1,0 +1,1 @@
+{"title": "Nous E5", "type": "object", "properties": {"temperature": {"type": "integer"}, "humidity": {"type": "integer"}, "battery": {"type": "integer"}, "linkquality": {"type": "integer"}}}

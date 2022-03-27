@@ -1,0 +1,1 @@
+{"title": "TuYa TS0215A_sos", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["emergency"]}, "linkquality": {"type": "integer"}}}

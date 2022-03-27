@@ -1,0 +1,1 @@
+{"title": "Xiaomi DLKZMK12LM", "type": "object", "properties": {"power_outage_memory": {"type": "boolean"}, "switch_type": {"type": "string", "enum": ["toggle", "momentary"]}, "linkquality": {"type": "integer"}}}

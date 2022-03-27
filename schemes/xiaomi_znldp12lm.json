@@ -1,0 +1,1 @@
+{"title": "Xiaomi ZNLDP12LM", "type": "object", "properties": {"effect": {"type": "string", "enum": ["blink", "breathe", "okay", "channel_change", "finish_effect", "stop_effect"]}, "power_outage_memory": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

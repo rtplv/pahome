@@ -1,0 +1,1 @@
+{"title": "Wally U02I007C.01", "type": "object", "properties": {"battery": {"type": "integer"}, "temperature": {"type": "integer"}, "humidity": {"type": "integer"}, "action": {"type": "string", "enum": ["on", "off"]}, "contact": {"type": "boolean"}, "water_leak": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

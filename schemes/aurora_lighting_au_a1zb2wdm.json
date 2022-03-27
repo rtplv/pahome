@@ -1,0 +1,1 @@
+{"title": "Aurora Lighting AU-A1ZB2WDM", "type": "object", "properties": {"effect": {"type": "string", "enum": ["blink", "breathe", "okay", "channel_change", "finish_effect", "stop_effect"]}, "backlight_led": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

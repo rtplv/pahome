@@ -1,0 +1,1 @@
+{"title": "Legrand FC80CC", "type": "object", "properties": {"power": {"type": "integer"}, "device_mode": {"type": "string", "enum": ["switch", "auto"]}, "linkquality": {"type": "integer"}}}

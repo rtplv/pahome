@@ -1,0 +1,1 @@
+{"title": "TuYa TS0207_water_leak_detector", "type": "object", "properties": {"water_leak": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "battery": {"type": "integer"}, "linkquality": {"type": "integer"}}}

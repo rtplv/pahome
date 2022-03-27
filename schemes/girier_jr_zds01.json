@@ -1,0 +1,1 @@
+{"title": "Girier JR-ZDS01", "type": "object", "properties": {"power_on_behavior": {"type": "string", "enum": ["off", "previous", "on"]}, "switch_type": {"type": "string", "enum": ["toggle", "state", "momentary"]}, "linkquality": {"type": "integer"}}}

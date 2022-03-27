@@ -1,0 +1,1 @@
+{"title": "Lonsonho TS130F_dual", "type": "object", "properties": {"moving": {"type": "string", "enum": ["UP", "STOP", "DOWN"]}, "calibration_time": {"type": "integer"}, "calibration": {"type": "boolean"}, "motor_reversal": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

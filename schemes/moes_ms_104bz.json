@@ -1,0 +1,1 @@
+{"title": "Moes MS-104BZ", "type": "object", "properties": {"power_on_behavior": {"type": "string", "enum": ["on", "off", "previous"]}, "linkquality": {"type": "integer"}}}

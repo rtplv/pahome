@@ -1,0 +1,1 @@
+{"title": "TuYa TS0013_switch_module", "type": "object", "properties": {"power_on_behavior": {"type": "string", "enum": ["off", "previous", "on"]}, "switch_type": {"type": "string", "enum": ["toggle", "state", "momentary"]}, "linkquality": {"type": "integer"}}}

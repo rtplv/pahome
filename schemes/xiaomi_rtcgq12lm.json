@@ -1,0 +1,1 @@
+{"title": "Xiaomi RTCGQ12LM", "type": "object", "properties": {"occupancy": {"type": "boolean"}, "illuminance": {"type": "integer"}, "detection_interval": {"type": "integer"}, "battery": {"type": "integer"}, "linkquality": {"type": "integer"}}}

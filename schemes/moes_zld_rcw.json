@@ -1,0 +1,1 @@
+{"title": "Moes ZLD-RCW", "type": "object", "properties": {"effect": {"type": "string", "enum": ["blink", "breathe", "okay", "channel_change", "finish_effect", "stop_effect"]}, "do_not_disturb": {"type": "boolean"}, "color_power_on_behavior": {"type": "string", "enum": ["initial", "previous", "cutomized"]}, "linkquality": {"type": "integer"}}}

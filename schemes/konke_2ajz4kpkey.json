@@ -1,0 +1,1 @@
+{"title": "Konke 2AJZ4KPKEY", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["single", "double", "hold"]}, "linkquality": {"type": "integer"}}}

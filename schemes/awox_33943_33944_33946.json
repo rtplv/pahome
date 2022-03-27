@@ -1,0 +1,1 @@
+{"title": "AwoX 33943/33944/33946", "type": "object", "properties": {"effect": {"type": "string", "enum": ["blink", "breathe", "okay", "channel_change", "finish_effect", "stop_effect"]}, "linkquality": {"type": "integer"}}}

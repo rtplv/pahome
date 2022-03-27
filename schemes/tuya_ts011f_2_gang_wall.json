@@ -1,0 +1,1 @@
+{"title": "TuYa TS011F_2_gang_wall", "type": "object", "properties": {"power_on_behavior": {"type": "string", "enum": ["on", "off", "previous"]}, "backlight_mode": {"type": "string", "enum": ["LOW", "MEDIUM", "HIGH"]}, "linkquality": {"type": "integer"}}}

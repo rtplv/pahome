@@ -1,0 +1,1 @@
+{"title": "Schneider Electric EER51000", "type": "object", "properties": {"battery": {"type": "integer"}, "temperature": {"type": "integer"}, "zone_mode": {"type": "string", "enum": ["manual", "schedule", "energy_saver", "holiday"]}, "linkquality": {"type": "integer"}}}

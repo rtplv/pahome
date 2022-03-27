@@ -1,0 +1,1 @@
+{"title": "SMaBiT (Bitron Video) AV2010/24", "type": "object", "properties": {"smoke": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "tamper": {"type": "boolean"}, "warning": {"type": "composite"}, "linkquality": {"type": "integer"}}}

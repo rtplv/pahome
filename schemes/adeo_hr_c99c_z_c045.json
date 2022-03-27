@@ -1,0 +1,33 @@
+{
+  "title": "ADEO HR-C99C-Z-C045",
+  "type": "object",
+  "properties": {
+    "battery": {
+      "type": "integer"
+    },
+    "action": {
+      "type": "string",
+      "enum": [
+        "on",
+        "off",
+        "scene_1",
+        "scene_2",
+        "scene_3",
+        "scene_4",
+        "color_saturation_step_up",
+        "color_saturation_step_down",
+        "color_stop",
+        "color_hue_step_up",
+        "color_hue_step_down",
+        "color_temperature_step_up",
+        "color_temperature_step_down",
+        "brightness_step_up",
+        "brightness_step_down",
+        "brightness_stop"
+      ]
+    },
+    "linkquality": {
+      "type": "integer"
+    }
+  }
+}

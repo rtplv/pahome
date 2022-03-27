@@ -1,0 +1,1 @@
+{"title": "Xiaomi WXKG16LM", "type": "object", "properties": {"battery": {"type": "integer"}, "voltage": {"type": "integer"}, "action": {"type": "string", "enum": ["single", "double", "hold"]}, "click_mode": {"type": "string", "enum": ["fast", "multi"]}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "Livolo TI0001-cover", "type": "object", "properties": {"options": {"type": "composite"}, "moving": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

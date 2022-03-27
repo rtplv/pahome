@@ -1,0 +1,1 @@
+{"title": "Konke KK-ES-J01W", "type": "object", "properties": {"battery": {"type": "integer"}, "illuminance": {"type": "integer"}, "illuminance_lux": {"type": "integer"}, "humidity": {"type": "integer"}, "temperature": {"type": "integer"}, "linkquality": {"type": "integer"}}}

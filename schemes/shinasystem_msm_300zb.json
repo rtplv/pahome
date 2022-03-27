@@ -1,0 +1,1 @@
+{"title": "ShinaSystem MSM-300ZB", "type": "object", "properties": {"action": {"type": "string", "enum": ["1_single", "1_double", "1_long", "2_single", "2_double", "2_long", "3_single", "3_double", "3_long", "4_single", "4_double", "4_long"]}, "battery": {"type": "integer"}, "voltage": {"type": "integer"}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "TuYa ZM-35H-Q", "type": "object", "properties": {"occupancy": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "tamper": {"type": "boolean"}, "battery": {"type": "integer"}, "sensitivity": {"type": "string", "enum": ["low", "medium", "high"]}, "keep_time": {"type": "string", "enum": ["30", "60", "120"]}, "linkquality": {"type": "integer"}}}

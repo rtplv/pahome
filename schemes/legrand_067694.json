@@ -1,0 +1,1 @@
+{"title": "Legrand 067694", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["identify", "on", "off", "toggle"]}, "linkquality": {"type": "integer"}}}

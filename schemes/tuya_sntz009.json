@@ -1,0 +1,1 @@
+{"title": "TuYa SNTZ009", "type": "object", "properties": {"water_leak": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

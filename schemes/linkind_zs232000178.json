@@ -1,0 +1,1 @@
+{"title": "Linkind ZS232000178", "type": "object", "properties": {"action": {"type": "string", "enum": ["on", "off", "brightness_move_up", "brightness_move_down", "brightness_stop"]}, "battery": {"type": "integer"}, "battery_low": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

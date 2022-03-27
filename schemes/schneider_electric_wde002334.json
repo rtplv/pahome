@@ -1,0 +1,1 @@
+{"title": "Schneider Electric WDE002334", "type": "object", "properties": {"ballast_minimum_level": {"type": "integer"}, "ballast_maximum_level": {"type": "integer"}, "dimmer_mode": {"type": "string", "enum": ["auto", "rc", "rl", "rl_led"]}, "linkquality": {"type": "integer"}}}

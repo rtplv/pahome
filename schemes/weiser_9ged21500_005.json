@@ -1,0 +1,1 @@
+{"title": "Weiser 9GED21500-005", "type": "object", "properties": {"battery": {"type": "integer"}, "linkquality": {"type": "integer"}}}

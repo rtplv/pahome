@@ -1,0 +1,1 @@
+{"title": "TuYa S-LUX-ZB", "type": "object", "properties": {"battery": {"type": "integer"}, "illuminance_lux": {"type": "integer"}, "battery_low": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

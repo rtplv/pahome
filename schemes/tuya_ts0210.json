@@ -1,0 +1,1 @@
+{"title": "TuYa TS0210", "type": "object", "properties": {"battery": {"type": "integer"}, "vibration": {"type": "boolean"}, "sensitivity": {"type": "string", "enum": ["low", "medium", "high"]}, "linkquality": {"type": "integer"}}}

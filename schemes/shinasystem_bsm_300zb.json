@@ -1,0 +1,1 @@
+{"title": "ShinaSystem BSM-300ZB", "type": "object", "properties": {"battery": {"type": "integer"}, "voltage": {"type": "integer"}, "action": {"type": "string", "enum": ["single", "double", "long"]}, "linkquality": {"type": "integer"}}}

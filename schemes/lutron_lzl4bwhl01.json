@@ -1,0 +1,1 @@
+{"title": "Lutron LZL4BWHL01", "type": "object", "properties": {"action": {"type": "string", "enum": ["down", "up", "stop"]}, "linkquality": {"type": "integer"}}}

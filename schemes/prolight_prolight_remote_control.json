@@ -1,0 +1,1 @@
+{"title": "Prolight PROLIGHT_REMOTE_CONTROL", "type": "object", "properties": {"action": {"type": "string", "enum": ["on", "off", "brightness_move_up", "brightness_move_down"]}, "linkquality": {"type": "integer"}}}

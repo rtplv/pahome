@@ -1,0 +1,1 @@
+{"title": "SmartThings SZ-SRN12N", "type": "object", "properties": {"warning": {"type": "composite"}, "linkquality": {"type": "integer"}}}

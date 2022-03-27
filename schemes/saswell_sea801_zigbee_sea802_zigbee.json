@@ -1,0 +1,1 @@
+{"title": "Saswell SEA801-Zigbee/SEA802-Zigbee", "type": "object", "properties": {"battery_low": {"type": "boolean"}, "heating": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

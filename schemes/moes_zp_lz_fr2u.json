@@ -1,0 +1,1 @@
+{"title": "Moes ZP-LZ-FR2U", "type": "object", "properties": {"power_outage_memory": {"type": "string", "enum": ["on", "off", "restore"]}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "HEIMAN HS1EB/HS1EB-E", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["off", "single", "double", "hold"]}, "linkquality": {"type": "integer"}}}

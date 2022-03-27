@@ -1,0 +1,1 @@
+{"title": "ShinaSystem DLM-300Z", "type": "object", "properties": {"battery": {"type": "integer"}, "door_state": {"type": "string", "enum": ["open", "closed"]}, "pin_code": {"type": "composite"}, "linkquality": {"type": "integer"}}}

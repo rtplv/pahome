@@ -1,0 +1,1 @@
+{"title": "Sunricher SR-ZGP2801K4-DIM", "type": "object", "properties": {"action": {"type": "string", "enum": ["press_on", "press_off", "press_high", "press_low", "hold_high", "hold_low", "release"]}, "linkquality": {"type": "integer"}}}

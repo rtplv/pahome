@@ -1,0 +1,1 @@
+{"title": "Nue / 3A HGZB-06A", "type": "object", "properties": {"effect": {"type": "string", "enum": ["blink", "breathe", "okay", "channel_change", "finish_effect", "stop_effect"]}, "linkquality": {"type": "integer"}}}

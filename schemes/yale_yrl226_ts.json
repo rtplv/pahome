@@ -1,0 +1,1 @@
+{"title": "Yale YRL226 TS", "type": "object", "properties": {"battery": {"type": "integer"}, "pin_code": {"type": "composite"}, "linkquality": {"type": "integer"}}}

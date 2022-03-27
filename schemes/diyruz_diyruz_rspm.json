@@ -1,0 +1,1 @@
+{"title": "DIYRuZ DIYRuZ_rspm", "type": "object", "properties": {"power": {"type": "integer"}, "current": {"type": "integer"}, "cpu_temperature": {"type": "integer"}, "action": {"type": "string", "enum": ["hold", "release"]}, "linkquality": {"type": "integer"}}}

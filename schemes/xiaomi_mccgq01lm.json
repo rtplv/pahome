@@ -1,0 +1,1 @@
+{"title": "Xiaomi MCCGQ01LM", "type": "object", "properties": {"battery": {"type": "integer"}, "contact": {"type": "boolean"}, "voltage": {"type": "integer"}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "Aurora Lighting AU-A1ZBR1GW", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["on", "off", "brightness_step_up", "brightness_step_down", "color_temperature_step_up", "color_temperature_step_down"]}, "linkquality": {"type": "integer"}}}

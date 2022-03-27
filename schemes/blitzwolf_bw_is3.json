@@ -1,0 +1,1 @@
+{"title": "BlitzWolf BW-IS3", "type": "object", "properties": {"occupancy": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

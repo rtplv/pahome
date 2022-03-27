@@ -1,0 +1,1 @@
+{"title": "TuYa TS011F_din_smart_relay", "type": "object", "properties": {"power": {"type": "integer"}, "current": {"type": "integer"}, "voltage": {"type": "integer"}, "energy": {"type": "integer"}, "power_outage_memory": {"type": "string", "enum": ["on", "off", "restore"]}, "linkquality": {"type": "integer"}}}

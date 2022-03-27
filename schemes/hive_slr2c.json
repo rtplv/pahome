@@ -1,0 +1,1 @@
+{"title": "Hive SLR2c", "type": "object", "properties": {"temperature_setpoint_hold": {"type": "boolean"}, "temperature_setpoint_hold_duration": {"type": "integer"}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "OSRAM AC0251100NJ/AC0251600NJ/AC0251700NJ", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["up", "up_hold", "up_release", "down_release", "circle_release", "circle_hold", "down", "down_hold", "circle_click"]}, "linkquality": {"type": "integer"}}}

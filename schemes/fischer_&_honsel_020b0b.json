@@ -1,0 +1,1 @@
+{"title": "Fischer & Honsel 020B0B", "type": "object", "properties": {"effect": {"type": "string", "enum": ["blink", "breathe", "okay", "channel_change", "finish_effect", "stop_effect"]}, "linkquality": {"type": "integer"}}}

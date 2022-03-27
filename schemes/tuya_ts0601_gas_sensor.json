@@ -1,0 +1,1 @@
+{"title": "TuYa TS0601_gas_sensor", "type": "object", "properties": {"gas": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

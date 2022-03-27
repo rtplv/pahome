@@ -1,0 +1,1 @@
+{"title": "Neo NAS-PD07", "type": "object", "properties": {"occupancy": {"type": "boolean"}, "humidity": {"type": "integer"}, "temperature": {"type": "integer"}, "tamper": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "power_type": {"type": "string", "enum": ["battery_full", "battery_high", "battery_medium", "battery_low", "usb"]}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "IKEA ICTC-G-1", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["brightness_move_up", "brightness_move_down", "brightness_stop", "brightness_move_to_level"]}, "linkquality": {"type": "integer"}}}

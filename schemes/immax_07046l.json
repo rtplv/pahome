@@ -1,0 +1,1 @@
+{"title": "Immax 07046L", "type": "object", "properties": {"action": {"type": "string", "enum": ["disarm", "arm_stay", "arm_away", "panic"]}, "linkquality": {"type": "integer"}}}

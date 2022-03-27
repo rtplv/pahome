@@ -1,0 +1,1 @@
+{"title": "IKEA E1525/E1745", "type": "object", "properties": {"battery": {"type": "integer"}, "occupancy": {"type": "boolean"}, "requested_brightness_level": {"type": "integer"}, "requested_brightness_percent": {"type": "integer"}, "illuminance_above_threshold": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "Xiaomi WXKG14LM", "type": "object", "properties": {"battery": {"type": "integer"}, "voltage": {"type": "integer"}, "action": {"type": "string", "enum": ["single", "double", "triple", "hold"]}, "click_mode": {"type": "string", "enum": ["fast", "multi"]}, "operation_mode": {"type": "string", "enum": ["command", "event"]}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "HEIMAN HS2SW3A/HS2SW3A-N", "type": "object", "properties": {"device_temperature": {"type": "integer"}, "linkquality": {"type": "integer"}}}

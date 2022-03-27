@@ -1,0 +1,1 @@
+{"title": "Feibit SGA01ZB", "type": "object", "properties": {"gas": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "tamper": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

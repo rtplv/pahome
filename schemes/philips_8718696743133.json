@@ -1,0 +1,1 @@
+{"title": "Philips 8718696743133", "type": "object", "properties": {"action": {"type": "string", "enum": ["press_1", "press_2", "press_3", "press_4"]}, "linkquality": {"type": "integer"}}}

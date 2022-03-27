@@ -1,0 +1,1 @@
+{"title": "Iris 3460-L", "type": "object", "properties": {"battery": {"type": "integer"}, "temperature": {"type": "integer"}, "action": {"type": "string", "enum": ["on", "off"]}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "Linkind ZL1000400-CCT-EU-2-V1A02", "type": "object", "properties": {"effect": {"type": "string", "enum": ["blink", "breathe", "okay", "channel_change", "finish_effect", "stop_effect"]}, "linkquality": {"type": "integer"}}}

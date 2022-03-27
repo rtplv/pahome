@@ -1,0 +1,1 @@
+{"title": "ORVIBO T40S6Z", "type": "object", "properties": {"action": {"type": "string", "enum": ["button_1_click", "button_2_click", "button_3_click", "button_4_click", "button_5_click", "button_6_click"]}, "linkquality": {"type": "integer"}}}

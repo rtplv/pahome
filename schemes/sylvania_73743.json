@@ -1,0 +1,1 @@
+{"title": "Sylvania 73743", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["up", "up_hold", "down", "down_hold", "up_release", "down_release"]}, "linkquality": {"type": "integer"}}}

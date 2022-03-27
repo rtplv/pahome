@@ -1,0 +1,1 @@
+{"title": "EcoDim ED-10011", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["on_1", "off_1", "brightness_move_up_1", "brightness_move_down_1", "brightness_stop_1"]}, "linkquality": {"type": "integer"}}}

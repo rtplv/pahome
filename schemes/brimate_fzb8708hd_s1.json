@@ -1,0 +1,1 @@
+{"title": "Brimate FZB8708HD-S1", "type": "object", "properties": {"occupancy": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

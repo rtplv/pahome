@@ -1,0 +1,1 @@
+{"title": "SmartThings STS-WTR-250", "type": "object", "properties": {"water_leak": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "tamper": {"type": "boolean"}, "battery": {"type": "integer"}, "temperature": {"type": "integer"}, "linkquality": {"type": "integer"}}}

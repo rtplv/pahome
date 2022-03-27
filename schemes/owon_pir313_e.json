@@ -1,0 +1,1 @@
+{"title": "OWON PIR313-E", "type": "object", "properties": {"occupancy": {"type": "boolean"}, "tamper": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "illuminance": {"type": "integer"}, "illuminance_lux": {"type": "integer"}, "temperature": {"type": "integer"}, "humidity": {"type": "integer"}, "linkquality": {"type": "integer"}}}

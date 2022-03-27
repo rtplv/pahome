@@ -1,0 +1,1 @@
+{"title": "Sengled E13-N11", "type": "object", "properties": {"occupancy": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "Xiaomi ZNCZ02LM", "type": "object", "properties": {"power": {"type": "integer"}, "energy": {"type": "integer"}, "temperature": {"type": "integer"}, "power_outage_memory": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

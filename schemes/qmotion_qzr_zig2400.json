@@ -1,0 +1,1 @@
+{"title": "Qmotion QZR-ZIG2400", "type": "object", "properties": {"action": {"type": "string", "enum": ["identify"]}, "position": {"type": "integer"}, "linkquality": {"type": "integer"}}}

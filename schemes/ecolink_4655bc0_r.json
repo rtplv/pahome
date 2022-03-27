@@ -1,0 +1,1 @@
+{"title": "Ecolink 4655BC0-R", "type": "object", "properties": {"temperature": {"type": "integer"}, "contact": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "tamper": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

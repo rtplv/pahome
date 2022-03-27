@@ -1,0 +1,1 @@
+{"title": "Philips 8718699693985", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["on", "off", "skip_backward", "skip_forward", "press", "hold", "release"]}, "linkquality": {"type": "integer"}}}

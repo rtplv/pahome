@@ -1,0 +1,1 @@
+{"title": "AduroSmart 81825", "type": "object", "properties": {"action": {"type": "string", "enum": ["on", "off", "up", "down"]}, "linkquality": {"type": "integer"}}}

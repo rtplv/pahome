@@ -1,0 +1,1 @@
+{"title": "Custom devices (DiY) EFEKTA_PWS_Max", "type": "object", "properties": {"soil_moisture": {"type": "integer"}, "battery": {"type": "integer"}, "illuminance": {"type": "integer"}, "temperature": {"type": "integer"}, "humidity": {"type": "integer"}, "linkquality": {"type": "integer"}}}

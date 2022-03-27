@@ -1,0 +1,1 @@
+{"title": "Leedarson 8A-SS-BA-H0", "type": "object", "properties": {"battery": {"type": "integer"}, "occupancy": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

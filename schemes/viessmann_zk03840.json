@@ -1,0 +1,1 @@
+{"title": "Viessmann ZK03840", "type": "object", "properties": {"window_open": {"type": "boolean"}, "window_open_force": {"type": "boolean"}, "keypad_lockout": {"type": "string", "enum": ["unlock", "lock1", "lock2"]}, "linkquality": {"type": "integer"}}}

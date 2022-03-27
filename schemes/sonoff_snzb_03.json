@@ -1,0 +1,1 @@
+{"title": "SONOFF SNZB-03", "type": "object", "properties": {"occupancy": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "tamper": {"type": "boolean"}, "battery": {"type": "integer"}, "voltage": {"type": "integer"}, "linkquality": {"type": "integer"}}}

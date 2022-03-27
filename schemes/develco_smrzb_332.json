@@ -1,0 +1,1 @@
+{"title": "Develco SMRZB-332", "type": "object", "properties": {"power": {"type": "integer"}, "energy": {"type": "integer"}, "linkquality": {"type": "integer"}}}

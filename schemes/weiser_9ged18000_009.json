@@ -1,0 +1,1 @@
+{"title": "Weiser 9GED18000-009", "type": "object", "properties": {"battery": {"type": "integer"}, "pin_code": {"type": "composite"}, "linkquality": {"type": "integer"}}}

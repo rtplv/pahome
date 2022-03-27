@@ -1,0 +1,1 @@
+{"title": "Bosch ISW-ZPR1-WP13", "type": "object", "properties": {"temperature": {"type": "integer"}, "battery": {"type": "integer"}, "occupancy": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "tamper": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

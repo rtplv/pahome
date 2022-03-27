@@ -1,0 +1,1 @@
+{"title": "TuYa TS0043", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["1_single", "1_double", "1_hold", "2_single", "2_double", "2_hold", "3_single", "3_double", "3_hold"]}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "TuYa PJ-ZGD01", "type": "object", "properties": {"trigger": {"type": "boolean"}, "garage_door_contact": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

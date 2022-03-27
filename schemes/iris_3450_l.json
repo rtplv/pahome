@@ -1,0 +1,1 @@
+{"title": "Iris 3450-L", "type": "object", "properties": {"action": {"type": "string", "enum": ["on_1", "off_1", "on_2", "off_2", "on_3", "off_3", "on_4", "off_4"]}, "battery": {"type": "integer"}, "presence": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

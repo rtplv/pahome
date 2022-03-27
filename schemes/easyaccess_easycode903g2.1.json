@@ -1,0 +1,1 @@
+{"title": "EasyAccess EasyCode903G2.1", "type": "object", "properties": {"battery": {"type": "integer"}, "sound_volume": {"type": "string", "enum": ["silent_mode", "low_volume", "high_volume"]}, "action": {"type": "string", "enum": ["zigbee_unlock", "lock", "rfid_unlock", "keypad_unlock"]}, "auto_relock": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

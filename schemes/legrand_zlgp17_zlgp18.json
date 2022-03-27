@@ -1,0 +1,1 @@
+{"title": "Legrand ZLGP17/ZLGP18", "type": "object", "properties": {"action": {"type": "string", "enum": ["press_once", "press_twice"]}, "linkquality": {"type": "integer"}}}

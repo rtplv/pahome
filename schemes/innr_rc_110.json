@@ -1,0 +1,1 @@
+{"title": "Innr RC 110", "type": "object", "properties": {"action": {"type": "string", "enum": ["on_*", "off_*", "brightness_*", "scene_*"]}, "linkquality": {"type": "integer"}}}

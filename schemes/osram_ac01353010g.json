@@ -1,0 +1,1 @@
+{"title": "OSRAM AC01353010G", "type": "object", "properties": {"temperature": {"type": "integer"}, "occupancy": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

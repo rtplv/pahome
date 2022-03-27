@@ -1,0 +1,1 @@
+{"title": "Develco Products A/S SIRZB-110", "type": "object", "properties": {"battery": {"type": "integer"}, "battery_low": {"type": "boolean"}, "test": {"type": "boolean"}, "warning": {"type": "composite"}, "squawk": {"type": "composite"}, "max_duration": {"type": "integer"}, "alarm": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

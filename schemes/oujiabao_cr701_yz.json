@@ -1,0 +1,1 @@
+{"title": "Oujiabao CR701-YZ", "type": "object", "properties": {"gas": {"type": "boolean"}, "carbon_monoxide": {"type": "boolean"}, "tamper": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

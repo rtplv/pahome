@@ -1,0 +1,1 @@
+{"title": "BTicino F20T60A", "type": "object", "properties": {"power": {"type": "integer"}, "device_mode": {"type": "string", "enum": ["switch", "auto"]}, "linkquality": {"type": "integer"}}}

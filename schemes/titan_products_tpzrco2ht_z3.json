@@ -1,0 +1,1 @@
+{"title": "Titan Products TPZRCO2HT-Z3", "type": "object", "properties": {"voltage": {"type": "integer"}, "battery_low": {"type": "boolean"}, "humidity": {"type": "integer"}, "temperature": {"type": "integer"}, "co2": {"type": "integer"}, "linkquality": {"type": "integer"}}}

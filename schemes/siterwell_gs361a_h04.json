@@ -1,0 +1,1 @@
+{"title": "Siterwell GS361A-H04", "type": "object", "properties": {"battery": {"type": "integer"}, "position": {"type": "integer"}, "linkquality": {"type": "integer"}}}

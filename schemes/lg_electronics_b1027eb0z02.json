@@ -1,0 +1,1 @@
+{"title": "LG Electronics B1027EB0Z02", "type": "object", "properties": {"effect": {"type": "string", "enum": ["blink", "breathe", "okay", "channel_change", "finish_effect", "stop_effect"]}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "SmartThings STSS-PRES-001", "type": "object", "properties": {"battery": {"type": "integer"}, "presence": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

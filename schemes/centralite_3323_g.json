@@ -1,0 +1,1 @@
+{"title": "Centralite 3323-G", "type": "object", "properties": {"contact": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "tamper": {"type": "boolean"}, "temperature": {"type": "integer"}, "linkquality": {"type": "integer"}}}

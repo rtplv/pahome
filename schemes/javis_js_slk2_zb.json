@@ -1,0 +1,1 @@
+{"title": "JAVIS JS-SLK2-ZB", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["unlock"]}, "linkquality": {"type": "integer"}}}

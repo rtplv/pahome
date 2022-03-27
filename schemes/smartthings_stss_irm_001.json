@@ -1,0 +1,1 @@
+{"title": "SmartThings STSS-IRM-001", "type": "object", "properties": {"occupancy": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "tamper": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

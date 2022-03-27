@@ -1,0 +1,1 @@
+{"title": "Yale YDD-D4F0-TSDB", "type": "object", "properties": {"battery": {"type": "integer"}, "pin_code": {"type": "composite"}, "linkquality": {"type": "integer"}}}

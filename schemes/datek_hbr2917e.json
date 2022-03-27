@@ -1,0 +1,1 @@
+{"title": "Datek HBR2917E", "type": "object", "properties": {"battery": {"type": "integer"}, "temperature": {"type": "integer"}, "action": {"type": "string", "enum": ["recall_1", "recall_2", "recall_3", "recall_4", "on", "off", "brightness_move_down", "brightness_move_up", "brightness_stop"]}, "linkquality": {"type": "integer"}}}

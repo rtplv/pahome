@@ -1,0 +1,1 @@
+{"title": "Swann SWO-KEF1PA", "type": "object", "properties": {"action": {"type": "string", "enum": ["home", "sleep", "away", "panic"]}, "linkquality": {"type": "integer"}}}

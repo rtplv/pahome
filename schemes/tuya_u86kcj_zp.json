@@ -1,0 +1,1 @@
+{"title": "TuYa U86KCJ-ZP", "type": "object", "properties": {"action": {"type": "string", "enum": ["scene_1", "scene_2", "scene_3", "scene_4", "scene_5", "scene_6"]}, "linkquality": {"type": "integer"}}}

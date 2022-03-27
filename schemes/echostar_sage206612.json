@@ -1,0 +1,1 @@
+{"title": "EchoStar SAGE206612", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["bell1", "bell2"]}, "linkquality": {"type": "integer"}}}

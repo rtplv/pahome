@@ -1,0 +1,1 @@
+{"title": "Climax KP-23EL-ZBS-ACE", "type": "object", "properties": {"battery_low": {"type": "boolean"}, "tamper": {"type": "boolean"}, "action": {"type": "string", "enum": ["emergency", "panic", "disarm", "arm_all_zones", "arm_day_zones"]}, "linkquality": {"type": "integer"}}}

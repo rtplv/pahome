@@ -1,0 +1,1 @@
+{"title": "Nue / 3A HGZB-1S", "type": "object", "properties": {"action": {"type": "string", "enum": ["recall_*"]}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "ShinaSystem TSM-300ZB", "type": "object", "properties": {"temperature": {"type": "integer"}, "humidity": {"type": "integer"}, "battery": {"type": "integer"}, "voltage": {"type": "integer"}, "linkquality": {"type": "integer"}}}

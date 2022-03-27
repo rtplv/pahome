@@ -1,0 +1,1 @@
+{"title": "Schneider Electric 41EPBDWCLMZ/354PBDMBTZ", "type": "object", "properties": {"ballast_minimum_level": {"type": "integer"}, "ballast_maximum_level": {"type": "integer"}, "linkquality": {"type": "integer"}}}

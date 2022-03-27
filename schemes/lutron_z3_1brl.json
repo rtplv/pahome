@@ -1,0 +1,1 @@
+{"title": "Lutron Z3-1BRL", "type": "object", "properties": {"action": {"type": "string", "enum": ["brightness"]}, "brightness": {"type": "integer"}, "linkquality": {"type": "integer"}}}

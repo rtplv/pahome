@@ -1,0 +1,1 @@
+{"title": "Universal Electronics Inc XHS2-UE", "type": "object", "properties": {"contact": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "tamper": {"type": "boolean"}, "temperature": {"type": "integer"}, "battery": {"type": "integer"}, "linkquality": {"type": "integer"}}}

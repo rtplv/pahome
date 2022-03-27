@@ -1,0 +1,1 @@
+{"title": "Dawon DNS KB-HD100-ZB", "type": "object", "properties": {"card": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "Centralite 3157100-E", "type": "object", "properties": {"battery": {"type": "integer"}, "temperature_setpoint_hold": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

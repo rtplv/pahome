@@ -1,0 +1,1 @@
+{"title": "Linkind LS21001", "type": "object", "properties": {"water_leak": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "battery": {"type": "integer"}, "alert_behaviour": {"type": "string", "enum": ["siren_led", "siren", "led", "nothing"]}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "OpenLumi GWRJN5169", "type": "object", "properties": {"device_temperature": {"type": "integer"}, "linkquality": {"type": "integer"}}}

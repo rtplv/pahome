@@ -1,0 +1,1 @@
+{"title": "HKGK BAC-002-ALZB", "type": "object", "properties": {"deadzone_temperature": {"type": "integer"}, "max_temperature_limit": {"type": "integer"}, "linkquality": {"type": "integer"}}}

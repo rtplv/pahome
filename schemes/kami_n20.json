@@ -1,0 +1,1 @@
+{"title": "KAMI N20", "type": "object", "properties": {"contact": {"type": "boolean"}, "occupancy": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

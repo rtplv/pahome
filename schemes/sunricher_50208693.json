@@ -1,0 +1,1 @@
+{"title": "Sunricher 50208693", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["on", "off", "brightness_move_up", "brightness_move_down", "brightness_move_stop", "brightness_step_up", "brightness_step_down", "recall_1", "recall_2"]}, "linkquality": {"type": "integer"}}}

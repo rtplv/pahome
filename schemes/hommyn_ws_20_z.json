@@ -1,0 +1,1 @@
+{"title": "Hommyn WS-20-Z", "type": "object", "properties": {"water_leak": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "tamper": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

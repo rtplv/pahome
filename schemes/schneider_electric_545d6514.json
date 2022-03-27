@@ -1,0 +1,1 @@
+{"title": "Schneider Electric 545D6514", "type": "object", "properties": {"action": {"type": "string", "enum": ["on_s*", "off_s*"]}, "linkquality": {"type": "integer"}}}

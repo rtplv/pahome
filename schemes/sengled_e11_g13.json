@@ -1,0 +1,1 @@
+{"title": "Sengled E11-G13", "type": "object", "properties": {"power": {"type": "integer"}, "energy": {"type": "integer"}, "linkquality": {"type": "integer"}}}

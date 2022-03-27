@@ -1,0 +1,1 @@
+{"title": "M\u00fcller Licht 404002", "type": "object", "properties": {"action": {"type": "string", "enum": ["on", "off", "brightness_step_up", "brightness_step_down", "brightness_move_up", "brightness_move_down", "brightness_stop", "recall_1"]}, "linkquality": {"type": "integer"}}}

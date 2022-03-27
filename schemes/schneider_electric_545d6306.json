@@ -1,0 +1,1 @@
+{"title": "Schneider Electric 545D6306", "type": "object", "properties": {"occupancy": {"type": "boolean"}, "illuminance_lux": {"type": "integer"}, "illuminance": {"type": "integer"}, "occupancy_timeout": {"type": "integer"}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "Woox R7048", "type": "object", "properties": {"battery": {"type": "integer"}, "temperature": {"type": "integer"}, "humidity": {"type": "integer"}, "voltage": {"type": "integer"}, "linkquality": {"type": "integer"}}}

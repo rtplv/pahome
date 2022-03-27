@@ -1,0 +1,1 @@
+{"title": "SmartThings STS-PRS-251", "type": "object", "properties": {"battery": {"type": "integer"}, "presence": {"type": "boolean"}, "action": {"type": "string", "enum": ["beeping"]}, "beep": {"type": "string", "enum": ["2", "5", "10", "15", "30"]}, "linkquality": {"type": "integer"}}}

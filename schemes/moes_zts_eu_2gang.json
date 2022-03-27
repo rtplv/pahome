@@ -1,0 +1,1 @@
+{"title": "Moes ZTS-EU_2gang", "type": "object", "properties": {"indicate_light": {"type": "string", "enum": ["off", "switch", "position", "freeze"]}, "power_on_behavior": {"type": "string", "enum": ["off", "on", "previous"]}, "linkquality": {"type": "integer"}}}

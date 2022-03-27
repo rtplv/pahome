@@ -1,0 +1,1 @@
+{"title": "Schneider Electric EER42000", "type": "object", "properties": {"power": {"type": "integer"}, "energy": {"type": "integer"}, "linkquality": {"type": "integer"}}}

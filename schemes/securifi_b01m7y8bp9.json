@@ -1,0 +1,1 @@
+{"title": "Securifi B01M7Y8BP9", "type": "object", "properties": {"action": {"type": "string", "enum": ["single", "double", "long"]}, "linkquality": {"type": "integer"}}}

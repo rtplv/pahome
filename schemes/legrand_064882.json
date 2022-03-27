@@ -1,0 +1,1 @@
+{"title": "Legrand 064882", "type": "object", "properties": {"device_mode": {"type": "boolean"}, "cable_outlet_mode": {"type": "string", "enum": ["comfort", "comfort-1", "comfort-2", "eco", "frost_protection", "off"]}, "power": {"type": "integer"}, "linkquality": {"type": "integer"}}}

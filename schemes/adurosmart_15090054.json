@@ -1,0 +1,1 @@
+{"title": "AduroSmart 15090054", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["toggle", "recall_253", "recall_254", "recall_255"]}, "linkquality": {"type": "integer"}}}

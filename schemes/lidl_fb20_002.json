@@ -1,0 +1,1 @@
+{"title": "Lidl FB20-002", "type": "object", "properties": {"action": {"type": "string", "enum": ["on", "off", "brightness_stop", "brightness_step_up", "brightness_step_down", "brightness_move_up", "brightness_move_down"]}, "linkquality": {"type": "integer"}}}

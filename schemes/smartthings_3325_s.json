@@ -1,0 +1,1 @@
+{"title": "SmartThings 3325-S", "type": "object", "properties": {"temperature": {"type": "integer"}, "occupancy": {"type": "boolean"}, "battery": {"type": "integer"}, "tamper": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

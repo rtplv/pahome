@@ -1,0 +1,1 @@
+{"title": "Datek HSE2919E", "type": "object", "properties": {"battery": {"type": "integer"}, "battery_low": {"type": "boolean"}, "temperature": {"type": "integer"}, "water_leak": {"type": "boolean"}, "tamper": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

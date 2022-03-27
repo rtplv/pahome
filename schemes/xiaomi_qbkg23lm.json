@@ -1,0 +1,1 @@
+{"title": "Xiaomi QBKG23LM", "type": "object", "properties": {"power": {"type": "integer"}, "energy": {"type": "integer"}, "temperature": {"type": "integer"}, "voltage": {"type": "integer"}, "action": {"type": "string", "enum": ["single", "release"]}, "operation_mode": {"type": "string", "enum": ["control_relay", "decoupled"]}, "linkquality": {"type": "integer"}}}

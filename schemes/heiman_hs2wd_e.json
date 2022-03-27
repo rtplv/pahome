@@ -1,0 +1,1 @@
+{"title": "HEIMAN HS2WD-E", "type": "object", "properties": {"battery": {"type": "integer"}, "warning": {"type": "composite"}, "linkquality": {"type": "integer"}}}

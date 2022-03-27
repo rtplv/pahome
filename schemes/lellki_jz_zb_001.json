@@ -1,0 +1,1 @@
+{"title": "LELLKI JZ-ZB-001", "type": "object", "properties": {"power_outage_memory": {"type": "string", "enum": ["on", "off", "restore"]}, "linkquality": {"type": "integer"}}}

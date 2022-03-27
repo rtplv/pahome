@@ -1,0 +1,1 @@
+{"title": "J.XUAN DSZ01", "type": "object", "properties": {"contact": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "Calex 421782", "type": "object", "properties": {"action": {"type": "string", "enum": ["on", "off", "color_temperature_move", "brightness_step_up", "brightness_step_down", "brightness_move_up", "brightness_move_down", "brightness_stop", "enhanced_move_to_hue_and_saturation"]}, "linkquality": {"type": "integer"}}}

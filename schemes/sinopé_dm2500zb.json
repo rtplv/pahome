@@ -1,0 +1,1 @@
+{"title": "Sinop\u00e9 DM2500ZB", "type": "object", "properties": {"effect": {"type": "string", "enum": ["blink", "breathe", "okay", "channel_change", "finish_effect", "stop_effect"]}, "led_intensity_on": {"type": "integer"}, "led_intensity_off": {"type": "integer"}, "minimum_brightness": {"type": "integer"}, "linkquality": {"type": "integer"}}}

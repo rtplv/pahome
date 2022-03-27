@@ -1,0 +1,1 @@
+{"title": "TuYa TS0601_vibration_sensor", "type": "object", "properties": {"contact": {"type": "boolean"}, "battery": {"type": "integer"}, "vibration": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

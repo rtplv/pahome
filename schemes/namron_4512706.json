@@ -1,0 +1,1 @@
+{"title": "Namron 4512706", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["on", "off", "brightness_step_up", "brightness_step_down", "color_temperature_step_up", "color_temperature_step_down", "recall_*", "color_temperature_move"]}, "linkquality": {"type": "integer"}}}

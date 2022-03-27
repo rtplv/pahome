@@ -1,0 +1,1 @@
+{"title": "TuYa TS130F", "type": "object", "properties": {"moving": {"type": "string", "enum": ["UP", "STOP", "DOWN"]}, "calibration": {"type": "boolean"}, "motor_reversal": {"type": "boolean"}, "backlight_mode": {"type": "string", "enum": ["LOW", "MEDIUM", "HIGH"]}, "calibration_time": {"type": "integer"}, "linkquality": {"type": "integer"}}}

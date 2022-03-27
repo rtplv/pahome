@@ -1,0 +1,1 @@
+{"title": "Legrand 412015", "type": "object", "properties": {"power": {"type": "integer"}, "power_alarm_active": {"type": "boolean"}, "power_alarm": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

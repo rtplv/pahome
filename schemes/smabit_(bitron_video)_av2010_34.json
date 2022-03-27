@@ -1,0 +1,1 @@
+{"title": "SMaBiT (Bitron Video) AV2010/34", "type": "object", "properties": {"action": {"type": "string", "enum": ["recall_*"]}, "linkquality": {"type": "integer"}}}

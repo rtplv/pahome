@@ -1,0 +1,1 @@
+{"title": "Woox R7049", "type": "object", "properties": {"smoke": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

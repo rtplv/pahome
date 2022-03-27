@@ -1,0 +1,1 @@
+{"title": "BYUN M415-6C", "type": "object", "properties": {"smoke": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

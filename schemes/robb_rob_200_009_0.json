@@ -1,0 +1,1 @@
+{"title": "ROBB ROB_200-009-0", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["on_1", "off_1", "stop_1", "brightness_move_up_1", "brightness_move_down_1", "brightness_stop_1"]}, "linkquality": {"type": "integer"}}}

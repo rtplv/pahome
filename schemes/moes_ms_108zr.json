@@ -1,0 +1,1 @@
+{"title": "Moes MS-108ZR", "type": "object", "properties": {"calibration_time": {"type": "integer"}, "moving": {"type": "string", "enum": ["UP", "STOP", "DOWN"]}, "motor_reversal": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

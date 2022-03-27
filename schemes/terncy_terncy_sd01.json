@@ -1,0 +1,1 @@
+{"title": "TERNCY TERNCY-SD01", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["single", "double", "triple", "quadruple", "rotate"]}, "direction": {"type": "string"}, "linkquality": {"type": "integer"}}}

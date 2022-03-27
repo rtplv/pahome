@@ -1,0 +1,1 @@
+{"title": "databyte.ch DTB190502A1", "type": "object", "properties": {"led_state": {"type": "boolean"}, "key_state": {"type": "string", "enum": ["KEY_SYS", "KEY_UP", "KEY_DOWN", "KEY_NONE"]}, "linkquality": {"type": "integer"}}}

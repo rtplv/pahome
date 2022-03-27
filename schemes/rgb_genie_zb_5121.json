@@ -1,0 +1,1 @@
+{"title": "RGB Genie ZB-5121", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["on", "off", "brightness_step_up", "brightness_step_down", "brightness_move_up", "brightness_move_down", "brightness_stop", "recall_*"]}, "linkquality": {"type": "integer"}}}

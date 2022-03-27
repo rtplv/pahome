@@ -1,0 +1,1 @@
+{"title": "SmartThings IM6001-BTP01", "type": "object", "properties": {"action": {"type": "string", "enum": ["off", "single", "double", "hold"]}, "battery": {"type": "integer"}, "temperature": {"type": "integer"}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "Aurora Lighting AU-A1ZBPIRS", "type": "object", "properties": {"occupancy": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "tamper": {"type": "boolean"}, "illuminance": {"type": "integer"}, "illuminance_lux": {"type": "integer"}, "linkquality": {"type": "integer"}}}

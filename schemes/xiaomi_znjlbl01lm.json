@@ -1,0 +1,1 @@
+{"title": "Xiaomi ZNJLBL01LM", "type": "object", "properties": {"battery": {"type": "integer"}, "motor_state": {"type": "string", "enum": ["declining", "rising", "pause", "blocked"]}, "running": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

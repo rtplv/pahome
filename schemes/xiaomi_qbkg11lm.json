@@ -1,0 +1,1 @@
+{"title": "Xiaomi QBKG11LM", "type": "object", "properties": {"power": {"type": "integer"}, "temperature": {"type": "integer"}, "action": {"type": "string", "enum": ["single", "double", "release", "hold"]}, "operation_mode": {"type": "string", "enum": ["control_relay", "decoupled"]}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "BTicino L441C/N4411C/NT4411C", "type": "object", "properties": {"ballast_minimum_level": {"type": "integer"}, "ballast_maximum_level": {"type": "integer"}, "device_mode": {"type": "boolean"}, "permanent_led": {"type": "boolean"}, "led_when_on": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "BTicino L4531C", "type": "object", "properties": {"action": {"type": "string", "enum": ["identify"]}, "power": {"type": "integer"}, "voltage": {"type": "integer"}, "current": {"type": "integer"}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "Climax SRAC-23B-ZBSR", "type": "object", "properties": {"battery_low": {"type": "boolean"}, "tamper": {"type": "boolean"}, "warning": {"type": "composite"}, "max_duration": {"type": "integer"}, "alarm": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

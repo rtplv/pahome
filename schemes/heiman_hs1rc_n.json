@@ -1,0 +1,1 @@
+{"title": "HEIMAN HS1RC-N", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["emergency", "disarm", "arm_partial_zones", "arm_all_zones"]}, "linkquality": {"type": "integer"}}}

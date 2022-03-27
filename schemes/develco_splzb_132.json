@@ -1,0 +1,1 @@
+{"title": "Develco SPLZB-132", "type": "object", "properties": {"power": {"type": "integer"}, "current": {"type": "integer"}, "voltage": {"type": "integer"}, "energy": {"type": "integer"}, "device_temperature": {"type": "integer"}, "ac_frequency": {"type": "integer"}, "linkquality": {"type": "integer"}}}

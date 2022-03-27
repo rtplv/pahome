@@ -1,0 +1,1 @@
+{"title": "Feibit SEB01ZB", "type": "object", "properties": {"sos": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "tamper": {"type": "boolean"}, "battery": {"type": "integer"}, "linkquality": {"type": "integer"}}}

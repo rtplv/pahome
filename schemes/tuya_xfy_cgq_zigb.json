@@ -1,0 +1,1 @@
+{"title": "TuYa XFY-CGQ-ZIGB", "type": "object", "properties": {"illuminance_lux": {"type": "integer"}, "brightness_state": {"type": "string", "enum": ["low", "middle", "high", "strong"]}, "linkquality": {"type": "integer"}}}

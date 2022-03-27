@@ -1,0 +1,1 @@
+{"title": "TuYa TS0601_smoke", "type": "object", "properties": {"smoke": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "Moes BHT-002-GCLZB", "type": "object", "properties": {"deadzone_temperature": {"type": "integer"}, "max_temperature_limit": {"type": "integer"}, "linkquality": {"type": "integer"}}}

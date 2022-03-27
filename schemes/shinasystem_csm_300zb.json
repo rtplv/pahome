@@ -1,0 +1,1 @@
+{"title": "ShinaSystem CSM-300ZB", "type": "object", "properties": {"battery": {"type": "integer"}, "voltage": {"type": "integer"}, "status": {"type": "string", "enum": ["idle", "in", "out"]}, "people": {"type": "integer"}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "IKEA E1603/E1702/E1708", "type": "object", "properties": {"power_on_behavior": {"type": "string", "enum": ["off", "previous", "on"]}, "linkquality": {"type": "integer"}}}

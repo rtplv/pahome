@@ -1,0 +1,1 @@
+{"title": "Xiaomi QBKG40LM", "type": "object", "properties": {"action": {"type": "string", "enum": ["single", "double"]}, "power_outage_memory": {"type": "boolean"}, "temperature": {"type": "integer"}, "flip_indicator_light": {"type": "boolean"}, "operation_mode": {"type": "string", "enum": ["control_relay", "decoupled"]}, "linkquality": {"type": "integer"}}}

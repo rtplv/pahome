@@ -1,0 +1,1 @@
+{"title": "Xiaomi QBKG04LM", "type": "object", "properties": {"action": {"type": "string", "enum": ["release", "hold", "double", "single", "hold_release"]}, "operation_mode": {"type": "string", "enum": ["control_relay", "decoupled"]}, "linkquality": {"type": "integer"}}}

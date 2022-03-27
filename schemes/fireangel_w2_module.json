@@ -1,0 +1,1 @@
+{"title": "FireAngel W2-Module", "type": "object", "properties": {"carbon_monoxide": {"type": "boolean"}, "battery": {"type": "integer"}, "linkquality": {"type": "integer"}}}

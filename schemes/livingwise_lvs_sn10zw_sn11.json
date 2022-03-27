@@ -1,0 +1,1 @@
+{"title": "LivingWise LVS-SN10ZW_SN11", "type": "object", "properties": {"battery": {"type": "integer"}, "occupancy": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "tamper": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

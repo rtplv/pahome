@@ -1,0 +1,1 @@
+{"title": "IKEA E1812", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["on", "off", "brightness_move_up", "brightness_stop"]}, "linkquality": {"type": "integer"}}}

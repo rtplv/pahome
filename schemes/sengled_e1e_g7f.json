@@ -1,0 +1,1 @@
+{"title": "Sengled E1E-G7F", "type": "object", "properties": {"action": {"type": "string", "enum": ["on", "up", "down", "off", "on_double", "on_long", "off_double", "off_long"]}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "TERNCY TERNCY-LS01", "type": "object", "properties": {"action": {"type": "string", "enum": ["single"]}, "linkquality": {"type": "integer"}}}

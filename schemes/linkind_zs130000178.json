@@ -1,0 +1,1 @@
+{"title": "Linkind ZS130000178", "type": "object", "properties": {"action": {"type": "string", "enum": ["panic", "disarm", "arm_partial_zones", "arm_all_zones"]}, "linkquality": {"type": "integer"}}}

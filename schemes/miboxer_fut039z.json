@@ -1,0 +1,1 @@
+{"title": "Miboxer FUT039Z", "type": "object", "properties": {"do_not_disturb": {"type": "boolean"}, "color_power_on_behavior": {"type": "string", "enum": ["initial", "previous", "cutomized"]}, "linkquality": {"type": "integer"}}}

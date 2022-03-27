@@ -1,0 +1,1 @@
+{"title": "Sengled Z01-A19NAE26", "type": "object", "properties": {"effect": {"type": "string", "enum": ["blink", "breathe", "okay", "channel_change", "finish_effect", "stop_effect"]}, "linkquality": {"type": "integer"}}}

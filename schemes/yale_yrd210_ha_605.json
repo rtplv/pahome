@@ -1,0 +1,1 @@
+{"title": "Yale YRD210-HA-605", "type": "object", "properties": {"battery": {"type": "integer"}, "pin_code": {"type": "composite"}, "linkquality": {"type": "integer"}}}

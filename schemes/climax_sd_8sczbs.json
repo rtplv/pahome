@@ -1,0 +1,1 @@
+{"title": "Climax SD-8SCZBS", "type": "object", "properties": {"smoke": {"type": "boolean"}, "battery": {"type": "integer"}, "battery_low": {"type": "boolean"}, "tamper": {"type": "boolean"}, "warning": {"type": "composite"}, "linkquality": {"type": "integer"}}}

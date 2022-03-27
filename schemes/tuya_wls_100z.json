@@ -1,0 +1,1 @@
+{"title": "TuYa WLS-100z", "type": "object", "properties": {"battery": {"type": "integer"}, "water_leak": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

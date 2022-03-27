@@ -1,0 +1,1 @@
+{"title": "GS BRHM8E27W70-I1", "type": "object", "properties": {"effect": {"type": "string", "enum": ["blink", "breathe", "okay", "channel_change", "finish_effect", "stop_effect"]}, "linkquality": {"type": "integer"}}}

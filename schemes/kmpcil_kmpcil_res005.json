@@ -1,0 +1,1 @@
+{"title": "KMPCIL KMPCIL_RES005", "type": "object", "properties": {"battery": {"type": "integer"}, "temperature": {"type": "integer"}, "humidity": {"type": "integer"}, "pressure": {"type": "integer"}, "illuminance": {"type": "integer"}, "illuminance_lux": {"type": "integer"}, "occupancy": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

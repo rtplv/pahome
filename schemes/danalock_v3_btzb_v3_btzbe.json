@@ -1,0 +1,1 @@
+{"title": "Danalock V3-BTZB/V3-BTZBE", "type": "object", "properties": {"battery": {"type": "integer"}, "pin_code": {"type": "composite"}, "linkquality": {"type": "integer"}}}

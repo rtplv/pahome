@@ -1,0 +1,1 @@
+{"title": "Xiaomi JTQJ-BF-01LM/BW", "type": "object", "properties": {"gas": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "tamper": {"type": "boolean"}, "sensitivity": {"type": "string", "enum": ["low", "medium", "high"]}, "gas_density": {"type": "integer"}, "linkquality": {"type": "integer"}}}

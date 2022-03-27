@@ -1,0 +1,1 @@
+{"title": "Schneider Electric CCT711119", "type": "object", "properties": {"power": {"type": "integer"}, "energy": {"type": "integer"}, "power_on_behavior": {"type": "string", "enum": ["off", "previous", "on"]}, "linkquality": {"type": "integer"}}}

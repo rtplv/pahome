@@ -1,0 +1,1 @@
+{"title": "Stelpro SORB", "type": "object", "properties": {"local_temperature": {"type": "integer"}, "keypad_lockout": {"type": "string", "enum": ["unlock", "lock1", "lock2"]}, "linkquality": {"type": "integer"}}}

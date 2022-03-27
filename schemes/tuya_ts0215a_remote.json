@@ -1,0 +1,1 @@
+{"title": "TuYa TS0215A_remote", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["disarm", "arm_day_zones", "arm_night_zones", "arm_all_zones", "exit_delay", "emergency"]}, "linkquality": {"type": "integer"}}}

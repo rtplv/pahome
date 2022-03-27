@@ -1,0 +1,1 @@
+{"title": "Ubisys S1", "type": "object", "properties": {"power": {"type": "integer"}, "action": {"type": "string", "enum": ["toggle", "on", "off", "recall_*", "brightness_move_up", "brightness_move_down", "brightness_stop"]}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "Legrand 067772", "type": "object", "properties": {"permanent_led": {"type": "boolean"}, "led_when_on": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "JIAWEN K2RGBW01", "type": "object", "properties": {"effect": {"type": "string", "enum": ["blink", "breathe", "okay", "channel_change", "finish_effect", "stop_effect"]}, "linkquality": {"type": "integer"}}}

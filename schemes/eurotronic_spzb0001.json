@@ -1,0 +1,1 @@
+{"title": "Eurotronic SPZB0001", "type": "object", "properties": {"battery": {"type": "integer"}, "trv_mode": {"type": "string", "enum": ["1", "2"]}, "valve_position": {"type": "integer"}, "linkquality": {"type": "integer"}}}

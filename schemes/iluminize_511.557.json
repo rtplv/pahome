@@ -1,0 +1,1 @@
+{"title": "Iluminize 511.557", "type": "object", "properties": {"action": {"type": "string", "enum": ["off", "on", "color_temperature_move", "color_move"]}, "linkquality": {"type": "integer"}}}

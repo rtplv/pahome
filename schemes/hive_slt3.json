@@ -1,0 +1,1 @@
+{"title": "Hive SLT3", "type": "object", "properties": {"battery": {"type": "integer"}, "linkquality": {"type": "integer"}}}

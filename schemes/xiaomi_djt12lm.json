@@ -1,0 +1,1 @@
+{"title": "Xiaomi DJT12LM", "type": "object", "properties": {"action": {"type": "string", "enum": ["vibration"]}, "linkquality": {"type": "integer"}}}

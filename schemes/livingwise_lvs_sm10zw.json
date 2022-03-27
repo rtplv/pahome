@@ -1,0 +1,1 @@
+{"title": "LivingWise LVS-SM10ZW", "type": "object", "properties": {"contact": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "tamper": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "Dawon DNS PM-B540-ZB", "type": "object", "properties": {"device_temperature": {"type": "integer"}, "power": {"type": "integer"}, "energy": {"type": "integer"}, "linkquality": {"type": "integer"}}}

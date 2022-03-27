@@ -1,0 +1,1 @@
+{"title": "Waxman 8850100", "type": "object", "properties": {"battery": {"type": "integer"}, "linkquality": {"type": "integer"}}}

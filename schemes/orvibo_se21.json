@@ -1,0 +1,1 @@
+{"title": "ORVIBO SE21", "type": "object", "properties": {"action": {"type": "string", "enum": ["off", "single", "double", "hold"]}, "linkquality": {"type": "integer"}}}

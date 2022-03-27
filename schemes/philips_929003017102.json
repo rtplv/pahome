@@ -1,0 +1,1 @@
+{"title": "Philips 929003017102", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["left_press", "left_press_release", "right_press", "right_press_release"]}, "device_mode": {"type": "string", "enum": ["single_rocker", "single_push_button", "dual_rocker", "dual_push_button"]}, "linkquality": {"type": "integer"}}}

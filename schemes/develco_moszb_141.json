@@ -1,0 +1,1 @@
+{"title": "Develco MOSZB-141", "type": "object", "properties": {"occupancy": {"type": "boolean"}, "battery_low": {"type": "boolean"}, "linkquality": {"type": "integer"}}}

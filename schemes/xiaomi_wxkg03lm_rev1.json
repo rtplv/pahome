@@ -1,0 +1,1 @@
+{"title": "Xiaomi WXKG03LM_rev1", "type": "object", "properties": {"battery": {"type": "integer"}, "action": {"type": "string", "enum": ["single"]}, "voltage": {"type": "integer"}, "linkquality": {"type": "integer"}}}

@@ -1,0 +1,1 @@
+{"title": "Waxman 8840100H", "type": "object", "properties": {"battery": {"type": "integer"}, "temperature": {"type": "integer"}, "water_leak": {"type": "boolean"}, "linkquality": {"type": "integer"}}}
