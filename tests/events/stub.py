@@ -9,7 +9,7 @@ IEEE_ADDRESS = "0xffffff"
 
 def event_log_stub(
         ieee_address: str = IEEE_ADDRESS,
-        topic: EventTopic = EventTopic.DEVICE_EVENT,
+        topic: EventTopic = EventTopic.DEVICE,
         body: Optional[Dict[str, Any]] = None
 ):
     body = {} if not body else body

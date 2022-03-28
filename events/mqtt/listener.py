@@ -19,7 +19,7 @@ def init_subscriptions():
 
 
 async def process_event(client: Client, topic: str, payload: str, qos: int, options: dict):
-    if topic not in [t.value for t in EventTopic] and not topic.startswith(EventTopic.DEVICE_EVENT.value):
+    if topic not in [t.value for t in EventTopic] and not topic.startswith(EventTopic.DEVICE.value):
         logger.debug(f"Skip event. Topic: {topic}, payload: {payload}")
         return
 
@@ -35,7 +35,7 @@ async def process_event(client: Client, topic: str, payload: str, qos: int, opti
 
     if topic == EventTopic.BRIDGE_EVENT.value:
         await process_bridge_event(body)
-    if topic.startswith(EventTopic.DEVICE_EVENT.value):
+    if topic.startswith(EventTopic.DEVICE.value):
         await process_device_event(topic, body)
     if topic == EventTopic.DEVICE_REMOVE.value:
         await process_device_remove(body)
@@ -107,7 +107,7 @@ async def process_device_event(topic: str, body: dict):
         await device_service.save_state(ctx, ieee_address, body)
         await event_log_service.create(ctx, EventLog(
             ieee_address=ieee_address,
-            topic=EventTopic.DEVICE_EVENT,
+            topic=EventTopic.DEVICE,
             body=body
         ))
 

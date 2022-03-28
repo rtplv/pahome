@@ -6,7 +6,16 @@ from pydantic import BaseModel
 
 class EventTopic(str, Enum):
     BRIDGE_EVENT = "zigbee2mqtt/bridge/event"
-    DEVICE_EVENT = "zigbee2mqtt/0x"
+    BRIDGE_INFO = "zigbee2mqtt/bridge/info"
+    BRIDGE_STATE = "zigbee2mqtt/bridge/state"
+    BRIDGE_LOGGING = "zigbee2mqtt/bridge/logging"
+    BRIDGE_DEVICES = "zigbee2mqtt/bridge/devices"
+    BRIDGE_GROUPS = "zigbee2mqtt/bridge/groups"
+    BRIDGE_EXTENSIONS = "zigbee2mqtt/bridge/extensions"
+    DEVICE = "zigbee2mqtt/0x"
+    DEVICE_SET = "zigbee2mqtt/0x/get"
+    DEVICE_GET = "zigbee2mqtt/0x/set"
+    DEVICE_AVAILABILITY = "zigbee2mqtt/0x/availability"
     DEVICE_REMOVE = "zigbee2mqtt/bridge/response/device/remove"
 
 

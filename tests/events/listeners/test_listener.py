@@ -16,8 +16,8 @@ from tests.events.stub import bridge_event_stub, bridge_remove_event, IEEE_ADDRE
 @pytest.mark.asyncio
 @pytest.mark.parametrize("topic,topic_type", [
     ("zigbee2mqtt/bridge/event", EventTopic.BRIDGE_EVENT),
-    ("zigbee2mqtt/0xffffff", EventTopic.DEVICE_EVENT),
-    ("zigbee2mqtt/0xffffff/get", EventTopic.DEVICE_EVENT),
+    ("zigbee2mqtt/0xffffff", EventTopic.DEVICE),
+    ("zigbee2mqtt/0xffffff/get", EventTopic.DEVICE),
     ("zigbee2mqtt/bridge/response/device/remove", EventTopic.DEVICE_REMOVE),
     ("zigbee2mqtt/bridge/response/device/add", None),
     ("zigbee2mqtt/02552", None),
@@ -32,7 +32,7 @@ async def test_process_event(topic: str, topic_type: Optional[EventTopic]):
 
     if topic_type == EventTopic.BRIDGE_EVENT:
         assert process_bridge_event_mock.called
-    if topic_type == EventTopic.DEVICE_EVENT:
+    if topic_type == EventTopic.DEVICE:
         assert process_device_event_mock.called
     if topic_type == EventTopic.DEVICE_REMOVE:
         assert process_device_remove_mock.called
